@@ -22,5 +22,5 @@ Datatset, training and testing pipeline were adopted from Yiheng Wang's kaggle r
 
 ## Thoughts
 - 3D Unet with augmentations on CPU took about 2 days to train -> need to do augmentations on GPU. Applying elastic deformation was especially slow.
-- Other well performed models used ensemble of 2D, 2.5D, 3D datasets. Noted for future competitions.
+- Note other well performed strategies included ensemble of 2D, 2.5D, 3D datasets.
 
