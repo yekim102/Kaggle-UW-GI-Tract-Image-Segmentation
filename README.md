@@ -9,6 +9,7 @@ Datatset, training and testing pipeline were adopted from Yiheng Wang's kaggle r
 ## Environment
 - Python 3.8.13
 - Pytorch 1.7.1+cu110
+- Monai 0.8.1
 
 ## Notes
 - Integrated distributed dataparallel for faster training. 
