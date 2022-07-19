@@ -1,4 +1,4 @@
-# UW-Madison GI Tract Image Segmentation 70th Solution with 3D Unet
+# UW-Madison GI Tract Image Segmentation 66th Solution with 3D Unet
 
 This repository contains training and inference code for kaggle competition: https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation.
 3D dataset with 3D Unet were used for solution.
